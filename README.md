@@ -30,4 +30,5 @@ npm start
 
 Aplikasi akan berjalan di http://localhost:3000
 
+🙌 Kredit Mengikuti Tutorial dari Tutorial membuat catatan belanja React WPU (Pak sandhika Galih), dengan perubahan pada 📥 fitur select option menjadi pemilihan jumlah barang yang bebas di isi pengguna. Sehingga pengguna lebih bebas untuk memilih jumlah belanjaan nya 🛒 dan setup modern menggunakan Vite ⚡.
 
